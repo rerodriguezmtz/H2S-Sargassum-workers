@@ -1,0 +1,2 @@
+Real-time hydrogen sulfide (H2S) exposure among Sargassum cleanup workers were obtained using custom-built portable sensors with a resolution of 1 ppm, a detection range of 1-100 ppm, and were calibrated using a commercial certified reference sensor (Honeywell BW Flex Compliance Multi Gas, detection range: 0–200 ppm H₂S).
+The study was conducted in three municipalities of the Mexican Caribbean state of Quintana Roo.
